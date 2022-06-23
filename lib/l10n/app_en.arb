@@ -1,0 +1,143 @@
+{
+  "appName": "MyThings",
+  "errorUnexpected" : "Unexpected error",
+  "login" : "Sign In",
+  "logout" : "Log out",
+  "loginSuccess": "Successfully Login",
+  "logoutSuccess": "Successfully Logout",
+  "email" : "Email",
+  "errorEmailInvalid": "You must provide a valid email",
+  "errorEmailAlreadyExist": "An user with same email already exist",
+  "errorEmailNoUserFound": "No user found for that email",
+  "password" : "Password",
+  "passwordConfimation" : "Password Confirmation",
+  "errorPasswordNotIdentical" : "Password are not identical",
+  "errorPasswordToWeak": "Too weak min: 1 upper, 1 lower, 1 number",
+  "errorPasswordWrong": "Wrong password provided for that user.",
+  "username": "Username",
+  "errorIncorrectUsername": "Incorrect username (max 30)",
+  "createAnAccount": "Create an account",
+  "emptyField": "Field {field} cannot be empty",
+  "@emptyField": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "errorImage": "Choose an image",
+  "collectionTitle": "Title of your collection",
+  "errorLength": "min :{min} max :{max}",
+  "@errorLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "add": "Add",
+  "addCollection": "Add a collection",
+  "showCollection": "Show a collection",
+  "editCollection": "Edit",
+  "fieldValue": "Field value",
+  "fieldName": "Field name",
+  "textShort": "Text Short",
+  "textLong": "Text Long",
+  "dropdownText": "Choice",
+  "checkboxList": "Multiple Choices",
+  "checkbox": "Checkbox",
+  "image": "Image",
+  "number": "Number",
+  "errorCollectionFields": "Collection items should have 1 or more fields",
+  "errorCollectionFieldsViewDefault": "Collection should have field displayed in default view",
+  "collectionFields": "Fields of {collectionName}",
+  "@collectionFields": {
+    "placeholders": {
+      "collectionName": {
+        "type": "String"
+      }
+    }
+  },
+  "collectionImage": "{collectionName} image representation",
+  "@collectionImage": {
+    "placeholders": {
+      "collectionName": {
+        "type": "String"
+      }
+    }
+  },
+  "collectionDefaultFieldView": "Fields display in default view",
+  "collections": "Collections",
+  "userProfil": "Account",
+  "language": "Language",
+  "loadingProgress": "Please Wait....",
+  "cancel": "Cancel",
+  "camera": "Camera",
+  "files": "Files",
+  "chooseImage": "Choose an image",
+  "errorCollectionFieldAlreadyExist": "Field already exist",
+  "confirmDeletion": "Confirm Deletion",
+  "confirmdeleteCollection": "Are you sure you want to delete \"{collectionName}\" and all its items?",
+  "@confirmdeleteCollection": {
+    "placeholders": {
+      "collectionName": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmAction": "Ok",
+  "update": "Update",
+  "addNamed": "Add an item to {theName}",
+  "@addNamed": {
+    "placeholders": {
+      "theName": {
+        "type": "String"
+      }
+    }
+  },
+  "updateNamed": "Update {theName}",
+  "@updateNamed": {
+    "placeholders": {
+      "theName": {
+        "type": "String"
+      }
+    }
+  },
+  "item_details": "Details",
+  "errorValueNumber": "Error Value must be a number",
+  "confirmdeleteCollectionItem": "Are you sure you want to delete the item?",
+  "@confirmdeleteCollectionItem": {
+    "placeholders": {
+      "itemName": {
+        "type": "String"
+      }
+    }
+  },
+  "date": "Date",
+  "clear": "Clear",
+  "applyFilters" : "Apply Filters",
+  "onlyImages" : "Only Images",
+  "textChoicesOf": "Choices of : \"{itemName}\"",
+  "@textChoicesOf": {
+    "placeholders": {
+      "itemName": {
+        "type": "String"
+      }
+    }
+  },
+  "dialogDuplicate" : "Do you want to duplicate this item?",
+  "yes": "Yes",
+  "no" : "No",
+  "contains": "Contains",
+  "min": "Min",
+  "max": "Max",
+  "from": "From",
+  "to": "To",
+  "equal": "Equal",
+  "signInWithGoogle": "Sign in with Google"
+
+
+}

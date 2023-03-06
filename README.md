@@ -1,4 +1,4 @@
-# my_things
+# My Big Dick
 
 ## project structure
 
